@@ -5,6 +5,8 @@ import App from './pages/App';
 import reportWebVitals from './reportWebVitals';
 import MovieList from './components/MovieList';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
