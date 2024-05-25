@@ -1,5 +1,5 @@
 
-import MovieList from '../components/MovieList';
+// import MovieList from '../components/MovieList';
 import '../stylesheets/App.css';
 
 function App(props) {
